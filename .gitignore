@@ -1,0 +1,4 @@
+models/*.h5
+venv/
+venv310/
+__pycache__/
